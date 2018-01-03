@@ -28,6 +28,9 @@
     - Node.js
     - Express.js
     - MongoDB-moongoose
+- Testing:
+    - Unit test: Karma, Mochai, Chai, Sinon
+    - Automation test: Selenium
 
 ## Công cụ
 
@@ -54,4 +57,17 @@
 - Backend: api documents
 - Database: database schema
 - Frontend: visual design
-++
+
+
+## Tài liệu tham khảo:
+
+Nhóm sẽ làm theo các hướng dẫn sau:
+
+- [Creating a Blogging App Using React, Part 1: User Sign-In](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-react-user-sign-in--cms-28568)
+- [Creating a Blogging App Using React, Part 2: User Sign-Up](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-reactjs-add-post--cms-28579)
+- [Creating a Blogging App Using React, Part 3: Add & Display Post](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-react-part-3-add-display-post--cms-28685)
+- [Creating a Blogging App Using React, Part 4: Update & Delete Posts](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-react-part-4-update-delete-post--cms-28855)
+- [Creating a Blogging App Using React, Part 5: Profile Page](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-react-part-5-profile-page--cms-29131)
+- [Creating a Blogging App Using React, Part 6: Tags](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-react-part-6-tags--cms-29228)
+
+
