@@ -59,7 +59,7 @@
 - Nguyễn Minh Trung
 - Nguyễn Trung Tuyến
 - Nguyễn Thế Tùng
-
+- Lương Ngọc Phúc
 1. Requirements
 - Backend: api documents
 - Database: database schema
