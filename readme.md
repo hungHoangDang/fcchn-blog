@@ -1,5 +1,10 @@
 # Free Code Camp Hanoi Blog Project
 
+## Update:
+
+- 2018.01.10: Thêm thành viên dự án. Quyết định cấu trúc dự án (Back-end và Front-end)
+- 2018.01.03: Tạo dự án 
+
 ## Giới thiệu
 
 - Đây là dự án học React, sản phẩm là 1 blog để nhiều người cùng kết nối và chia sẻ kiến thức.  
@@ -48,16 +53,17 @@
 
 - Nguyễn Quốc Đại
 - Bui Duy Khánh
+- Nguyễn Thế Phụng Long
 - Trịnh Minh Tâm
 - Lê Đức Thắng
 - Nguyễn Minh Trung
 - Nguyễn Trung Tuyến
+- Nguyễn Thế Tùng
 
 1. Requirements
 - Backend: api documents
 - Database: database schema
 - Frontend: visual design
-
 
 ## Tài liệu tham khảo:
 
